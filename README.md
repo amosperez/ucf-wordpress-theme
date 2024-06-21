@@ -13,7 +13,8 @@ This project is my attempt at redesigning the UCF Office of Student Involvement 
 ### Status
 The project is currently unfinished. I began this project as part of my preparation for a job interview with the OSI Design Group, but I was not hired. However, the project demonstrates the initial steps and thought process involved in theme development using the Athena Framework.
 
-### To preview this theme:
+### Preview This Theme
+To preview this theme:
 1. Download the "ucfwordpresstheme.zip" file from this repository
 2. Go to https://playground.wordpress.net
 3. From the top left, click on the WordPress logo
